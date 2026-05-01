@@ -12,3 +12,8 @@ It will show my basic HTML knowledge, as it will contain:
 It will also provide a well structure git commits
 
 It will later be expanded ith the addition of CSS
+
+Sources used:
+https://www.allrecipes.com/recipe/245775/spaghetti-alla-carbonara-the-traditional-italian-recipe/
+https://www.allrecipes.com/recipe/70935/taqueria-style-tacos-carne-asada/
+https://www.allrecipes.com/recipe/23965/baked-macaroni-and-cheese-iii/
